@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hair Appointment</string>
+    <string name="action_settings">Setup</string>
+    <string name="new_customer">New Customer!</string>
+    <string name="new_product">New Product!</string>
+    <string name="activity_product">Products</string>
+    <string name="activity_customer">Customers</string>
+    <string name="activity_users">Users</string>
+    <string name="title_activity_customer">Customer Registration</string>
+    <string name="title_activity_m">Main Menu</string>
+    <string name="title_activity_users">Users Registration</string>
+</resources>
